@@ -62,7 +62,7 @@ function getWarn(guild, name){
 
 
 
-client.login('NzEwNjU0NDA1MzkyODU5MjI3.Xr3mqA.rPNuW7l2MAKZOVgQrrvHEJkqUBY');
+client.login('TOKEN');
 
 function isNumber(str){
 	var string = str + ''; // 문자열로 변환
